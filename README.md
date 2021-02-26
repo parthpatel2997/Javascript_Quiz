@@ -1,3 +1,3 @@
 # Javascript_Quiz
 
-A simple Quiz build using HTML, CSS and Javascript.
+A simple quiz template written in js/jquery and is responsively designed.
